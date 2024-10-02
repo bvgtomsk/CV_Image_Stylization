@@ -31,4 +31,4 @@
 
 Веб приложение и модуль image_stylization расположенны в папке [app](https://github.com/bvgtomsk/CV_Image_Stylization/tree/master/app)
 
-Имеется [видео]() работающего инференса
+Имеется [видео](https://drive.google.com/file/d/1inNHMxP0cnPRil-h7rKS5o_5pcN8IKAz/view?usp=sharing) работающего инференса

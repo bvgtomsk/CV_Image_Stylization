@@ -4,8 +4,8 @@
 
 Целью проекта было создать модель машинного обучения для переноса стилей изображения и демострация работающего инференса приложения
 
-В качестве изображения стиля были использованы следующие изображения
-![...](https://github.com/bvgtomsk/CV_Image_Stylization/blob/master/Image_stylization/Results/style_images_for_github.png
+В качестве изображения стиля были использованы следующие изображения:  
+![](https://github.com/bvgtomsk/CV_Image_Stylization/blob/master/Image_stylization/Results/style_images_for_github.png
 
 А в качестве изображений для преобразования взяты следующие изображения:
 ![](https://github.com/bvgtomsk/CV_Image_Stylization/blob/master/Image_stylization/Results/example_images_for_github.png)

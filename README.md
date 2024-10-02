@@ -5,10 +5,10 @@
 Целью проекта было создать модель машинного обучения для переноса стилей изображения и демострация работающего инференса приложения
 
 В качестве изображения стиля были использованы следующие изображения:  
-![](https://github.com/bvgtomsk/CV_Image_Stylization/blob/master/Image_stylization/Results/style_images_for_github.png)
+![](https://github.com/bvgtomsk/CV_Image_Stylization/blob/master/Image_stylization/Results/styles_images_for_github.png)
 
 А в качестве изображений для преобразования взяты следующие изображения:
-![](https://github.com/bvgtomsk/CV_Image_Stylization/blob/master/Image_stylization/Results/example_images_for_github.png)
+![](https://github.com/bvgtomsk/CV_Image_Stylization/blob/master/Image_stylization/Results/examples_images_for_github.png)
 
 Процесс создания модели представлен в [ноутбуке](https://github.com/bvgtomsk/CV_Image_Stylization/blob/master/CV_project_4_image_stylization.ipynb) (ссылка на [google colab](https://colab.research.google.com/drive/19Zj3Dp0uuuV6gllYT79yAMiAeJyPg-Uh?usp=sharing))
 
